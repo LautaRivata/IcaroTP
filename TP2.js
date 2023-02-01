@@ -29,3 +29,13 @@ else if(palabra1.length < palabra2.length){
 else{
     console.log("Tiene el mismo Largo");
 }
+
+// Tabla del Nueve
+console.log("Tabla del Nueve");
+
+let numero = 9
+
+for(let n = 1; n < 11; n++){
+    numero = 9*n;
+    console.log("9 x", n , "=", numero);
+}
