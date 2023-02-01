@@ -50,3 +50,15 @@ function multiplicar(parametro){
 let multi = multiplicar(numeroRandom);
 console.log(multi);
 
+// Almacen Numeros en un Array
+console.log("Almacenar numeros en un Array");
+
+let max = 10;
+let lista = [];
+
+while(lista.length < max){
+    lista.push(Math.floor((Math.random() * (100 - 1 + 1)) + 1));
+    console.log(lista);
+}
+
+
