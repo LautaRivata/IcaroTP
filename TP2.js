@@ -61,4 +61,4 @@ while(lista.length < max){
     console.log(lista);
 }
 
-
+console.log(lista.length);
