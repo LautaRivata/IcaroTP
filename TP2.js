@@ -39,3 +39,14 @@ for(let n = 1; n < 11; n++){
     numero = 9*n;
     console.log("9 x", n , "=", numero);
 }
+
+// Funcion multiplicar
+console.log("Funcion Multiplicar");
+
+function multiplicar(parametro){
+    return(parametro * 23);
+}
+
+let multi = multiplicar(numeroRandom);
+console.log(multi);
+
