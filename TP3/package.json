@@ -1,0 +1,15 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "Trabajo practico N3 para Icaro",
+  "main": "TP3.js",
+  "scripts": {
+    "start": "TP3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
