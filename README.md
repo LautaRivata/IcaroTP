@@ -1,4 +1,12 @@
 # IcaroTP
 Trabajos Practicos Icaro
+Autor : Rivata Lautaro
 
-inicio TP3 con node, a ver que onda
+TP1 Completado
+
+TP2 Completado
+
+TP3 Completado
+
+TP4 en Curso
+
