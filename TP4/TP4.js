@@ -2,7 +2,7 @@ const readlineSync = require("readline-sync");
 //const process = require("process");
 
 
-//Tp3 Ej 1 "Saludo mediante proces.argv"
+//Tp4 Ej 1 "Saludo mediante proces.argv"
 console.log("TP4 Ejercicio 1");
 
 function Saludar(nombre){
